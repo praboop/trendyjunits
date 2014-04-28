@@ -1,4 +1,7 @@
 
 JUnit Analyzer
 
-Analyzes Junit execution results and graphs out the results with statistics.
+High level statistics of JUnit execution results.
+Configurable failure patterns for grouping related failures.
+Comparison view of runs.
+Data is persisted in HSQLDB.
